@@ -1,7 +1,8 @@
 # Ensemble-forecasting-model-for-short-term-solar-forecasting
 **Finale year undergraduate project**
 
-Following is the image of the developed forecasting model. For furthure information of this model read the paper at IEEE Xplore.
+Following is the image of the developed forecasting model. For furthure information of this model[ read the paper at IEEE Xplore.]([URL](https://ieeexplore.ieee.org/abstract/document/10051275))
+
 ![model](model.png)
 
 # MATERIALS AND METHODS
@@ -33,5 +34,6 @@ to capture sky images and record PV generation data at
 predefined intervals of 30 seconds during 05:00h to 20:00h.
 Data captured from 27th March 2022 to 25th April 2022 were
 used to forecasting model.
-![Fig 2](sky images.png)
+![Fig 2](sky-images.png)
+
 
