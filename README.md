@@ -2,7 +2,7 @@
 **Finale year undergraduate project**
 
 Following is the image of the developed forecasting model. For furthure information of this model read the paper at IEEE Xplore.
-![model](path/to/image.jpg)
+![model](model.png)
 
 # MATERIALS AND METHODS
 ## A. Experimental setup
@@ -20,7 +20,7 @@ monitor was used in the system. The hardware diagram of the
 experimental setup is displayed in the Fig 1.
 The solar panel and the Rasbery Pi camera were mounted
 on the rooftop of a house in Gampaha, Sri Lanka.
-![Fig 1](path/to/image.jpg)
+![Fig 1](hardware.png)
 
 ## B. Data collection
 The images captured by the pi camera were stored in the
@@ -33,5 +33,5 @@ to capture sky images and record PV generation data at
 predefined intervals of 30 seconds during 05:00h to 20:00h.
 Data captured from 27th March 2022 to 25th April 2022 were
 used to forecasting model.
-![Fig 2](path/to/image.jpg)
+![Fig 2](sky images.png)
 
