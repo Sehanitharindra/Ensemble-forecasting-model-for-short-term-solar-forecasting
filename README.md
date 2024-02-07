@@ -5,8 +5,8 @@ Following is the image of the developed forecasting model. For furthure informat
 
 ![model](model.png)
 
-# MATERIALS AND METHODS
-## A. Experimental setup
+## MATERIALS AND METHODS
+### A. Experimental setup
 The dataset used in the project was obtained using a
 setup containing a Raspberry Pi 3 single board computer. A
 50W/12V solar panel was installed to obtain the PV power
@@ -23,7 +23,7 @@ The solar panel and the Rasbery Pi camera were mounted
 on the rooftop of a house in Gampaha, Sri Lanka.
 ![Fig 1](hardware.png)
 
-## B. Data collection
+### B. Data collection
 The images captured by the pi camera were stored in the
 computer in JPEG format and PV generation data was stored
 in CSV file format. An example image from the dataset is
